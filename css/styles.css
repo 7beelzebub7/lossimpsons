@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+body{
+    padding: 0;
+    margin: 0;
+    background-color: #FFD90F;
+}
+h1{
+    font-family: "Simpsonfont";
+    color: black;
+    text-align: center;
+ }
+ @font-face {
+    font-family: "Simpsonfont";
+    src: url(fonts/Simpsonfont.otf);
+ }
+h2{
+    font-family: "Simpsonfont";
+    color: black;
+ }
+ @font-face {
+    font-family: "Simpsonfont";
+    src: url(fonts/Simpsonfont.otf);
+ }
+
+.cajaVideo{
+    border-radius: 10%;
+    border-color: rgb(214, 121, 0) solid;
+    padding: 10px;
+    text-align: center;
+}
